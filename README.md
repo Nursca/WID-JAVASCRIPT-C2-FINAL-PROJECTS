@@ -32,9 +32,11 @@ WID-JAVASCRIPT-C2-FINAL-PROJECTS/
 Include all your project files (HTML, CSS, JS, assets, etc.) in your folder.
 Make sure your project can be run locally or deployed (e.g., via GitHub Pages, Netlify, or Vercel).
 ### 5️⃣ Commit and Push Your Work
-- git add .
-- git commit -m "Added final project by <your-name>"
-- git push origin <name-of-branch>
+```
+git add .
+git commit -m "Added final project by <your-name>"
+git push origin <name-of-branch>
+```
 
 ###6️⃣ Create a Pull Request (PR)
 - Go back to the original repo:
