@@ -21,11 +21,11 @@ https://github.com/Womenindefi-org/WID-JAVASCRIPT-C2-FINAL-PROJECTS
 Inside the cloned repository, create a folder named after your full name or GitHub username.
 Example:
 WID-JAVASCRIPT-C2-FINAL-PROJECTS/
-└── progress-eyaadah/
-     ├── index.html
-     ├── style.css
-     ├── script.js
-     └── README.md
+└── yourname/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
      
 
 ### 4️⃣ Add Your Project Files
@@ -46,3 +46,19 @@ git push origin <name-of-branch>
 - Submit the PR ✅
 
 
+### 🌟 Guidelines
+- Keep code clean and readable
+- Use meaningful names
+- Add comments
+- Make sure your app runs with no errors
+- Bonus: Host on GitHub Pages, Netlify, or Vercel
+
+##  🧑‍⚖️ Review
+- Mentors will review your PR.
+- Feedback may be added before merging into the main repo.
+
+## 💪 Acknowledgment
+This repo is part of the Women in DeFi Developer Program, helping women grow as Web3 and JavaScript developers.
+
+# Made with ❤️ by Women in DeFi DevRel Team
+“Code with courage. Learn with curiosity. Build with impact.”
