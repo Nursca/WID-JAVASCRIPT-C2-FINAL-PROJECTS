@@ -38,7 +38,7 @@ git commit -m "Added final project by <your-name>"
 git push origin <name-of-branch>
 ```
 
-###6️⃣ Create a Pull Request (PR)
+### 6️⃣ Create a Pull Request (PR)
 - Go back to the original repo:
 - https://github.com/Womenindefi-org/WID-JAVASCRIPT-C2-FINAL-PROJECTS
 - Click “Compare & Pull Request”
