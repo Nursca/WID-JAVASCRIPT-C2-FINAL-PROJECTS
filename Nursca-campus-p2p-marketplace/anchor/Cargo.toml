@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "programs/campus_marketplace"
+]
+resolver = "2"

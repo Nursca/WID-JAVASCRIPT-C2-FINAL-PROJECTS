@@ -1,0 +1,18 @@
+[features]
+seeds = true
+skip-lint = false
+
+[programs.localnet]
+campus_marketplace = "11111111111111111111111111111111"
+
+[programs.devnet]
+campus_marketplace = "11111111111111111111111111111111"
+
+[provider]
+cluster = "localnet"
+waller = "~/.config/solana/id.json"
+
+[scripts]
+build = "anchor build"
+deploy = "anchor deploy"
+test = "anchor test"

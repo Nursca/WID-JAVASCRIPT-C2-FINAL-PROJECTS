@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "vendor-chunks/@solana+wallet-standard-chains@1.1.1";
+exports.ids = ["vendor-chunks/@solana+wallet-standard-chains@1.1.1"];
+exports.modules = {
+
+/***/ "(ssr)/./node_modules/.pnpm/@solana+wallet-standard-chains@1.1.1/node_modules/@solana/wallet-standard-chains/lib/esm/index.js":
+/*!******************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/@solana+wallet-standard-chains@1.1.1/node_modules/@solana/wallet-standard-chains/lib/esm/index.js ***!
+  \******************************************************************************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   SOLANA_CHAINS: () => (/* binding */ SOLANA_CHAINS),\n/* harmony export */   SOLANA_DEVNET_CHAIN: () => (/* binding */ SOLANA_DEVNET_CHAIN),\n/* harmony export */   SOLANA_LOCALNET_CHAIN: () => (/* binding */ SOLANA_LOCALNET_CHAIN),\n/* harmony export */   SOLANA_MAINNET_CHAIN: () => (/* binding */ SOLANA_MAINNET_CHAIN),\n/* harmony export */   SOLANA_TESTNET_CHAIN: () => (/* binding */ SOLANA_TESTNET_CHAIN),\n/* harmony export */   isSolanaChain: () => (/* binding */ isSolanaChain)\n/* harmony export */ });\n/** Solana Mainnet (beta) cluster, e.g. https://api.mainnet-beta.solana.com */\nconst SOLANA_MAINNET_CHAIN = 'solana:mainnet';\n/** Solana Devnet cluster, e.g. https://api.devnet.solana.com */\nconst SOLANA_DEVNET_CHAIN = 'solana:devnet';\n/** Solana Testnet cluster, e.g. https://api.testnet.solana.com */\nconst SOLANA_TESTNET_CHAIN = 'solana:testnet';\n/** Solana Localnet cluster, e.g. http://localhost:8899 */\nconst SOLANA_LOCALNET_CHAIN = 'solana:localnet';\n/** Array of all Solana clusters */\nconst SOLANA_CHAINS = [\n    SOLANA_MAINNET_CHAIN,\n    SOLANA_DEVNET_CHAIN,\n    SOLANA_TESTNET_CHAIN,\n    SOLANA_LOCALNET_CHAIN,\n];\n/**\n * Check if a chain corresponds with one of the Solana clusters.\n */\nfunction isSolanaChain(chain) {\n    return SOLANA_CHAINS.includes(chain);\n}\n//# sourceMappingURL=index.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvLnBucG0vQHNvbGFuYSt3YWxsZXQtc3RhbmRhcmQtY2hhaW5zQDEuMS4xL25vZGVfbW9kdWxlcy9Ac29sYW5hL3dhbGxldC1zdGFuZGFyZC1jaGFpbnMvbGliL2VzbS9pbmRleC5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBQTtBQUNPO0FBQ1A7QUFDTztBQUNQO0FBQ087QUFDUDtBQUNPO0FBQ1A7QUFDTztBQUNQO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDTztBQUNQO0FBQ0E7QUFDQSIsInNvdXJjZXMiOlsiQzpcXFVzZXJzXFxtYXJnclxcY2FtcHVzLXAycC1tYXJrZXRwbGFjZVxcbm9kZV9tb2R1bGVzXFwucG5wbVxcQHNvbGFuYSt3YWxsZXQtc3RhbmRhcmQtY2hhaW5zQDEuMS4xXFxub2RlX21vZHVsZXNcXEBzb2xhbmFcXHdhbGxldC1zdGFuZGFyZC1jaGFpbnNcXGxpYlxcZXNtXFxpbmRleC5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvKiogU29sYW5hIE1haW5uZXQgKGJldGEpIGNsdXN0ZXIsIGUuZy4gaHR0cHM6Ly9hcGkubWFpbm5ldC1iZXRhLnNvbGFuYS5jb20gKi9cbmV4cG9ydCBjb25zdCBTT0xBTkFfTUFJTk5FVF9DSEFJTiA9ICdzb2xhbmE6bWFpbm5ldCc7XG4vKiogU29sYW5hIERldm5ldCBjbHVzdGVyLCBlLmcuIGh0dHBzOi8vYXBpLmRldm5ldC5zb2xhbmEuY29tICovXG5leHBvcnQgY29uc3QgU09MQU5BX0RFVk5FVF9DSEFJTiA9ICdzb2xhbmE6ZGV2bmV0Jztcbi8qKiBTb2xhbmEgVGVzdG5ldCBjbHVzdGVyLCBlLmcuIGh0dHBzOi8vYXBpLnRlc3RuZXQuc29sYW5hLmNvbSAqL1xuZXhwb3J0IGNvbnN0IFNPTEFOQV9URVNUTkVUX0NIQUlOID0gJ3NvbGFuYTp0ZXN0bmV0Jztcbi8qKiBTb2xhbmEgTG9jYWxuZXQgY2x1c3RlciwgZS5nLiBodHRwOi8vbG9jYWxob3N0Ojg4OTkgKi9cbmV4cG9ydCBjb25zdCBTT0xBTkFfTE9DQUxORVRfQ0hBSU4gPSAnc29sYW5hOmxvY2FsbmV0Jztcbi8qKiBBcnJheSBvZiBhbGwgU29sYW5hIGNsdXN0ZXJzICovXG5leHBvcnQgY29uc3QgU09MQU5BX0NIQUlOUyA9IFtcbiAgICBTT0xBTkFfTUFJTk5FVF9DSEFJTixcbiAgICBTT0xBTkFfREVWTkVUX0NIQUlOLFxuICAgIFNPTEFOQV9URVNUTkVUX0NIQUlOLFxuICAgIFNPTEFOQV9MT0NBTE5FVF9DSEFJTixcbl07XG4vKipcbiAqIENoZWNrIGlmIGEgY2hhaW4gY29ycmVzcG9uZHMgd2l0aCBvbmUgb2YgdGhlIFNvbGFuYSBjbHVzdGVycy5cbiAqL1xuZXhwb3J0IGZ1bmN0aW9uIGlzU29sYW5hQ2hhaW4oY2hhaW4pIHtcbiAgICByZXR1cm4gU09MQU5BX0NIQUlOUy5pbmNsdWRlcyhjaGFpbik7XG59XG4vLyMgc291cmNlTWFwcGluZ1VSTD1pbmRleC5qcy5tYXAiXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbMF0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/.pnpm/@solana+wallet-standard-chains@1.1.1/node_modules/@solana/wallet-standard-chains/lib/esm/index.js\n");
+
+/***/ })
+
+};
+;
